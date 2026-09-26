@@ -1,0 +1,4 @@
+# Optional Qwen editor dependency.
+# Recommended on Windows CPU: use setup_qwen_windows.ps1, which installs the
+# pre-built CPU wheel instead of compiling llama.cpp locally.
+llama-cpp-python

@@ -1,0 +1,11 @@
+[project]
+name = "manga-translator"
+version = "10.4.0"
+description = "Local Windows CPU-first manga/manhwa PDF translator: English to Russian"
+requires-python = ">=3.12,<3.13"
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [{ name = "Manga Translator contributors" }]
+
+[project.urls]
+Repository = "https://github.com/YOUR-USERNAME/manga-translator"
